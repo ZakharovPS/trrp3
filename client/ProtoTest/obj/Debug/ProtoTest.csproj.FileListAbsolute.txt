@@ -1,0 +1,26 @@
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.csprojAssemblyReference.cache
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.Properties.Resources.resources
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.csproj.GenerateResource.cache
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.csproj.CoreCompileInputs.cache
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\ProtoTest.exe.config
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\ProtoTest.exe
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\ProtoTest.pdb
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\Google.Protobuf.dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\Leaf.xNet.dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Buffers.dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Memory.dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\Google.Protobuf.pdb
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\Google.Protobuf.xml
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\Leaf.xNet.xml
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Buffers.xml
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Memory.xml
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.csproj.CopyComplete
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.exe
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.pdb
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\bin\Debug\xNet (1).dll
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.UserInput.resources
+C:\Users\zps98\source\repos\ProtoTest\ProtoTest\obj\Debug\ProtoTest.MainForm.resources
